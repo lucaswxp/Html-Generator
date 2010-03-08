@@ -5,10 +5,10 @@
     /**
      * Tipo 1
     */
-    echo Html::tag('div', 'Conteúdo da Div', array('id' => 'IdDiv'));
+    echo Html::tag('div', 'Conteudo da Div', array('id' => 'IdDiv'));
     echo Html::tag('br');
 
-    echo Html::tag('span', 'Counteúdo Span');
+    echo Html::tag('span', 'Counteudo Span');
     echo Html::tag('br');
 
     echo Html::tag('a', 'iMasters', array('href' => 'http://imasters.com.br/', 'target' => '_blank'));
